@@ -5,18 +5,14 @@ __pycache__/
 venv/
 *.egg-info/
 .pytest_cache/
-
 # Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb_checkpoints
-
 # Data
 data/
 *.csv
-
 # VSCode
 .vscode/
-
 # Environment
 .env
 *.log
