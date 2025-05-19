@@ -20,4 +20,3 @@ data/
 # Environment
 .env
 *.log
-EOL
