@@ -1,21 +1,19 @@
-# Solar Challenge Week 1
+# Solar Challenge - Week 0
+
+This repository is set up for the 10 Academy Week 0 Challenge (Solar Data Discovery). It includes a basic development environment and CI pipeline.
+
 ## Environment Setup
-1. **Clone the Repository**:
+
+### Prerequisites
+
+- Git
+- Python 3.12+
+- GitHub account
+
+### Steps to Reproduce
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/\<your-username\>/solar-challenge-week1.git
+   git clone https://github.com/Abelo73/solar-challenge-week1.git
    cd solar-challenge-week1
    ```
-2. **Set Up Python Virtual Environment**:
-   ```bash
-   python3.12 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-## Folder Structure
-- `src/`: Source code
-- `notebooks/`: Jupyter notebooks
-- `tests/`: Unit tests
-- `scripts/`: Utility scripts
